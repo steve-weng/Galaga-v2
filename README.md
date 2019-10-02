@@ -7,4 +7,6 @@ V2 will start with players being able to move left, right, and up.  Enemy planes
 
 If the player destroys all enemy planes on the page, a enemy fleet that moves faster will spawn.  Players will be afforded x number of lives - to be chosen by the player.
 
+The images have been retrieved from pngkey.com.
+
 Edits to come.
