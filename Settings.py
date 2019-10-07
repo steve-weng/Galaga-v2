@@ -1,6 +1,6 @@
 # this module stores all settings for Galaga V2
 
-class Settings():
+class settings():
 	
 	def __init__(self):
 
