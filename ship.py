@@ -23,6 +23,9 @@ class Ship():
 		self.moving_up = False
 		self.moving_down = False
 
+		self.bullets_fired = 0
+		self.bullets_hit = 0
+
 	def blitme(self):
 
 		self.screen.blit(self.image, self.rect)
